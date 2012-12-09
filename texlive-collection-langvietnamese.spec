@@ -32,3 +32,12 @@ Support for typesetting Vietnamese.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780458
+- Update to latest release.
+- Import texlive-collection-langvietnamese
+- Import texlive-collection-langvietnamese
+
