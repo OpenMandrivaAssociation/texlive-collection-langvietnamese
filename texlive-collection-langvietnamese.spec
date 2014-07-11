@@ -7,7 +7,7 @@
 Name:		texlive-collection-langvietnamese
 Epoch:		1
 Version:	20120224
-Release:	6
+Release:	7
 Summary:	Vietnamese
 Group:		Publishing
 URL:		http://tug.org/texlive
